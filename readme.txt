@@ -4,3 +4,4 @@ git has a mutable index called stage
 git tarcks changes of files
 hahahahahah wocao
 creating a new branch is quick
+creating a new branch is quick AND simple
